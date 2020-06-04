@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+html
+{
+  scroll-behavior: smooth;
+}
+body
+{
+  counter-reset:count-list;
+}
+:root
+{
+  --page-theme:rgb(113, 89, 193);
+}
+
+a
+{
+ text-decoration:none; color:#fff;
+}
+
+h1, h2, h3, h4, h5, h6
+{
+  margin:0px; padding:0px;
+}
+ul
+{
+  list-style:none;
+}
